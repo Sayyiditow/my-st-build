@@ -6,7 +6,7 @@ How this build is slightly different from Luke's:
 
 2. Colors have been changed for a smoother look.
 
-3  Uses xterm-256color in stead of the st-256color to fix issues I got with ssh and vim.
+3. Uses xterm-256color in stead of the st-256color to fix issues I got with ssh and vim.
 
 4. Uses Source Code Pro fonts.
 
