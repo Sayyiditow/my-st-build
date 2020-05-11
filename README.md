@@ -12,7 +12,10 @@ Other functions such as following urls, copyout command outputs and copy urls fr
 Find full features here:
 https://github.com/lukesmithxyz/st
 
-git clone https://github.com/Sayyiditow/my-st-build.git
+git clone https://github.com/Sayyiditow/my-st-build.git 
+
 cd st
+
 make
+
 start using ./st or make a link to this build using sudo ln -s /bin/st st
